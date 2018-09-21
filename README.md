@@ -1,7 +1,11 @@
-# Andrew Crites' Reading List
+# Andrew Crites' Learning List
 
 This is a list of articles, books, websites, videos, and anything else I would
 like to try out and explore. I hope that others can benefit from the list too.
+
+I've split this into two major sections: "Professional," which includes material
+that I think will be directly beneficial to my work, and "Personal" for
+everything else.
 
 ## Professional / Development-related
 
@@ -15,16 +19,22 @@ like to try out and explore. I hope that others can benefit from the list too.
 ### Video Courses
 * [x] https://egghead.io/courses/get-started-using-webassembly-wasm
 * [ ] https://egghead.io/courses/build-complex-layouts-with-css-grid-layout
+* [x] https://www.youtube.com/watch?v=56mETnrByBM
+* [ ] https://www.youtube.com/watch?v=Y4McLi9scfc
+* [ ] https://egghead.io/courses/advanced-react-component-patterns
+* [ ] https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 
 ### Videos
-* [ ] https://www.youtube.com/watch?v=nlj3HkMpla4
+* [x] https://www.youtube.com/watch?v=nlj3HkMpla4
+* [x] https://www.youtube.com/watch?v=9SMDqWam_B0
+* [x] https://www.youtube.com/watch?v=FYXpOjwYzcs
 
 ### Articles
 * [ ] https://alistapart.com/article/conversational-semantics
 * [ ] https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/
 * [ ] https://blog.kentcdodds.com/when-to-not-use-render-props-5397bbeff746
 * [ ] https://medium.com/@amberleyjohanna/seriously-though-what-is-a-progressive-web-app-56130600a093
-* [ ] https://blog.kentcdodds.com/automation-without-config-412ab5e47229
+* [x] https://blog.kentcdodds.com/automation-without-config-412ab5e47229
 * [ ] https://developers.google.com/web/updates/2018/05/lighthouse
 * [ ] https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage
 * [ ] https://developers.google.com/web/fundamentals/performance/prpl-pattern/
@@ -33,6 +43,12 @@ like to try out and explore. I hope that others can benefit from the list too.
 * [x] https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
 * [x] https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1
 * [x] https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/
+* [x] https://blog.kentcdodds.com/when-to-break-up-a-component-into-multiple-components-4ee75ab53bbc
+* [x] https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2
+* [x] https://techfindings.one/archives/2679
+* [x] https://github.com/Microsoft/TypeScript/wiki/FAQ
+* [ ] https://blog.angularindepth.com/rxjs-understanding-the-publish-and-share-operators-16ea2f446635
+* [ ] https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e
 
 ## Personal
 
