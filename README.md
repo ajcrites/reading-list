@@ -12,6 +12,8 @@ everything else.
 ### Software
 * [ ] https://github.com/webpack-contrib/webpack-bundle-analyzer
 * [ ] https://capacitor.ionicframework.com/docs/getting-started/
+* [ ] https://angular.io/guide/router
+* [ ] https://angular.io/guide/providers
 
 ### Apps
 * [ ] https://www.webpagetest.org/easy
@@ -23,11 +25,15 @@ everything else.
 * [ ] https://www.youtube.com/watch?v=Y4McLi9scfc
 * [ ] https://egghead.io/courses/advanced-react-component-patterns
 * [ ] https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+* [ ] https://egghead.io/lessons/rxjs-create-a-generic-subscriber-in-rxjs
 
 ### Videos
 * [x] https://www.youtube.com/watch?v=nlj3HkMpla4
 * [x] https://www.youtube.com/watch?v=9SMDqWam_B0
 * [x] https://www.youtube.com/watch?v=FYXpOjwYzcs
+* [ ] https://www.youtube.com/watch?v=hEGg-3pIHlE
+* [ ] https://www.youtube.com/watch?v=t3jx0EC-Y3c
+* [x] https://www.youtube.com/watch?v=9yK4t2CuIHQ
 
 ### Articles
 * [ ] https://alistapart.com/article/conversational-semantics
@@ -49,6 +55,7 @@ everything else.
 * [x] https://github.com/Microsoft/TypeScript/wiki/FAQ
 * [ ] https://blog.angularindepth.com/rxjs-understanding-the-publish-and-share-operators-16ea2f446635
 * [ ] https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e
+* [ ] https://www.artima.com/intv/handcuffs.html
 
 ## Personal
 
