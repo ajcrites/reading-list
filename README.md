@@ -21,8 +21,6 @@ everything else.
 ### Video Courses
 * [x] https://egghead.io/courses/get-started-using-webassembly-wasm
 * [ ] https://egghead.io/courses/build-complex-layouts-with-css-grid-layout
-* [x] https://www.youtube.com/watch?v=56mETnrByBM
-* [ ] https://www.youtube.com/watch?v=Y4McLi9scfc
 * [ ] https://egghead.io/courses/advanced-react-component-patterns
 * [ ] https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 * [ ] https://egghead.io/lessons/rxjs-create-a-generic-subscriber-in-rxjs
@@ -34,6 +32,9 @@ everything else.
 * [ ] https://www.youtube.com/watch?v=hEGg-3pIHlE
 * [ ] https://www.youtube.com/watch?v=t3jx0EC-Y3c
 * [x] https://www.youtube.com/watch?v=9yK4t2CuIHQ
+* [x] https://www.youtube.com/watch?v=56mETnrByBM
+* [ ] https://www.youtube.com/watch?v=Y4McLi9scfc
+* [ ] https://www.youtube.com/watch?v=cyaAhXHhxgk
 
 ### Articles
 * [ ] https://alistapart.com/article/conversational-semantics
@@ -56,6 +57,11 @@ everything else.
 * [ ] https://blog.angularindepth.com/rxjs-understanding-the-publish-and-share-operators-16ea2f446635
 * [ ] https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e
 * [ ] https://www.artima.com/intv/handcuffs.html
+* [x] https://medium.com/@thomasreggi/yarn-plugn-play-1c398bf3e417
+* [ ] https://lwn.net/Articles/250967/
+* [ ] https://addyosmani.com/blog/performance-budgets/
+* [ ] https://dev.to/meltedspark/customizing-angular-cli-6-buildan-alternative-to-ng-eject-1oc4
+* [ ] https://dev.to/meltedspark/angular-6-ng-test-with-jest-in-3-minutes-43l8
 
 ## Personal
 
