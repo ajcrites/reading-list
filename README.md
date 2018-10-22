@@ -20,8 +20,8 @@ everything else.
 
 ### Video Courses
 * [x] https://egghead.io/courses/get-started-using-webassembly-wasm
-* [ ] https://egghead.io/courses/build-complex-layouts-with-css-grid-layout
-* [ ] https://egghead.io/courses/advanced-react-component-patterns
+* [x] https://egghead.io/courses/build-complex-layouts-with-css-grid-layout
+* [x] https://egghead.io/courses/advanced-react-component-patterns
 * [ ] https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 * [ ] https://egghead.io/lessons/rxjs-create-a-generic-subscriber-in-rxjs
 
@@ -62,6 +62,8 @@ everything else.
 * [ ] https://addyosmani.com/blog/performance-budgets/
 * [ ] https://dev.to/meltedspark/customizing-angular-cli-6-buildan-alternative-to-ng-eject-1oc4
 * [ ] https://dev.to/meltedspark/angular-6-ng-test-with-jest-in-3-minutes-43l8
+* [ ] https://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf
+* [x] https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2
 
 ## Personal
 
