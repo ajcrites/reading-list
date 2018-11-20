@@ -35,6 +35,8 @@ everything else.
 * [x] https://www.youtube.com/watch?v=56mETnrByBM
 * [ ] https://www.youtube.com/watch?v=Y4McLi9scfc
 * [ ] https://www.youtube.com/watch?v=cyaAhXHhxgk
+* [ ] https://www.youtube.com/watch?v=v6iR3Zk4oDY
+* [ ] https://www.youtube.com/watch?v=SsCRQwLPwc8
 
 ### Articles
 * [ ] https://alistapart.com/article/conversational-semantics
@@ -64,6 +66,11 @@ everything else.
 * [ ] https://dev.to/meltedspark/angular-6-ng-test-with-jest-in-3-minutes-43l8
 * [ ] https://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf
 * [x] https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2
+* [ ] https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6
+* [ ] https://blog.logrocket.com/async-rendering-in-react-with-suspense-5d0eaac886c8
+* [ ] https://tylermcginnis.com/react-higher-order-components/
+* [ ] https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
+* [ ] https://blog.angularindepth.com/rxjs-closed-subjects-1b6f76c1b63c
 
 ## Personal
 
