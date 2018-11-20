@@ -1,0 +1,21 @@
+{
+  "name": "ajcrites-reading-list",
+  "version": "0.0.0",
+  "license": "MIT",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged && scripts/check-unique-urls.sh"
+    }
+  },
+  "lint-staged": {
+    "README.md": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "devDependencies": {
+    "husky": "^1.1.4",
+    "lint-staged": "^8.0.5",
+    "prettier": "^1.15.2"
+  }
+}
