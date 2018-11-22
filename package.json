@@ -4,18 +4,30 @@
   "license": "MIT",
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged && scripts/check-unique-urls.sh"
+      "pre-commit": "lint-staged && tsc --noEmit && tslint --project . && scripts/check-unique-urls.sh"
     }
   },
   "lint-staged": {
     "README.md": [
       "prettier --write",
       "git add"
+    ],
+    "src/**/*.ts": [
+      "prettier --write --parser typescript --single-quote --trailing-comma all",
+      "tslint --fix",
+      "git add"
     ]
   },
   "devDependencies": {
     "husky": "^1.1.4",
     "lint-staged": "^8.0.5",
-    "prettier": "^1.15.2"
+    "prettier": "^1.15.2",
+    "ts-config-mobiquity-server": "^4.0.1",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.6"
+  },
+  "dependencies": {
+    "markdown-it": "^8.4.2",
+    "markdown-it-task-lists": "^2.1.1"
   }
 }
