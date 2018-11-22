@@ -3,24 +3,18 @@
 This is a list of articles, books, websites, videos, and anything else I would
 like to try out and explore. I hope that others can benefit from the list too.
 
-I've split this into two major sections: "Professional," which includes material
-that I think will be directly beneficial to my work, and "Personal" for
-everything else.
-
-## Professional / Development-related
-
-### Software
+## Software
 
 - [ ] https://github.com/webpack-contrib/webpack-bundle-analyzer
 - [ ] https://capacitor.ionicframework.com/docs/getting-started/
 - [ ] https://angular.io/guide/router
 - [ ] https://angular.io/guide/providers
 
-### Apps
+## Apps
 
 - [ ] https://www.webpagetest.org/easy
 
-### Video Courses
+## Video Courses
 
 - [x] https://egghead.io/courses/get-started-using-webassembly-wasm
 - [x] https://egghead.io/courses/build-complex-layouts-with-css-grid-layout
@@ -28,7 +22,7 @@ everything else.
 - [ ] https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 - [ ] https://egghead.io/lessons/rxjs-create-a-generic-subscriber-in-rxjs
 
-### Videos
+## Videos
 
 - [x] https://www.youtube.com/watch?v=nlj3HkMpla4
 - [x] https://www.youtube.com/watch?v=9SMDqWam_B0
@@ -42,7 +36,7 @@ everything else.
 - [ ] https://www.youtube.com/watch?v=v6iR3Zk4oDY
 - [ ] https://www.youtube.com/watch?v=SsCRQwLPwc8
 
-### Articles
+## Articles
 
 - [ ] https://alistapart.com/article/conversational-semantics
 - [ ] https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/
@@ -76,13 +70,3 @@ everything else.
 - [ ] https://tylermcginnis.com/react-higher-order-components/
 - [ ] https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
 - [ ] https://blog.angularindepth.com/rxjs-closed-subjects-1b6f76c1b63c
-
-## Personal
-
-### Books
-
-- [ ] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.3973&rep=rep1&type=pdf
-
-### Articles
-
-- [x] http://comicsalliance.com/ask-chris-218-the-scariest-comic-of-all-time-is-a-garfield-story-from-1989/
