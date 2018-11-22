@@ -8,8 +8,8 @@ const md = new MarkdownIt({
 
 const parser = md.use(taskLists);
 
-mkdirSync('reading-list');
+mkdirSync('build');
 writeFileSync(
-  'reading-list/index.html',
+  'build/index.html',
   parser.render(readFileSync('README.md', 'utf-8')),
 );
