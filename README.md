@@ -7,8 +7,8 @@ like to try out and explore. I hope that others can benefit from the list too.
 
 - [ ] https://github.com/webpack-contrib/webpack-bundle-analyzer
 - [ ] https://capacitor.ionicframework.com/docs/getting-started/
-- [ ] https://angular.io/guide/router
-- [ ] https://angular.io/guide/providers
+- [ ] [Angular - Routing & Navigation](https://angular.io/guide/router)
+- [ ] [Angular - Providers](https://angular.io/guide/providers)
 
 ## Apps
 
@@ -34,7 +34,7 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://www.youtube.com/watch?v=Y4McLi9scfc
 - [ ] https://www.youtube.com/watch?v=cyaAhXHhxgk
 - [ ] https://www.youtube.com/watch?v=v6iR3Zk4oDY
-- [ ] https://www.youtube.com/watch?v=SsCRQwLPwc8
+- [x] https://www.youtube.com/watch?v=SsCRQwLPwc8
 
 ## Articles
 
@@ -63,7 +63,7 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://addyosmani.com/blog/performance-budgets/
 - [ ] https://dev.to/meltedspark/customizing-angular-cli-6-buildan-alternative-to-ng-eject-1oc4
 - [ ] https://dev.to/meltedspark/angular-6-ng-test-with-jest-in-3-minutes-43l8
-- [ ] https://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf
+- [ ] [Can Programming Be Liberated from the von Neumann Style?](https://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf)
 - [x] https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2
 - [ ] https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6
 - [ ] https://blog.logrocket.com/async-rendering-in-react-with-suspense-5d0eaac886c8

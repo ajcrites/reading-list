@@ -20,21 +20,28 @@ const { readFile, writeFile } = fsPromises;
   await Promise.all(
     [].slice.call(doc.querySelectorAll('a[href]')).map(async elem => {
       const url = elem.textContent.trim();
-      try {
-        const contentDom = await JSDOM.fromURL(url);
-        const contentDoc = contentDom.window.document;
+      // Only update title if we haven't already set a different title
+      if (url === elem.getAttribute('href')) {
+        try {
+          const contentDom = await JSDOM.fromURL(url);
+          const contentDoc = contentDom.window.document;
 
-        const title = contentDoc.querySelector('title');
-        if (title && title.textContent.trim()) {
-          elem.textContent = title.textContent.trim();
-        }
-      } catch {}
+          const title = contentDoc.querySelector('title');
+          if (title && title.textContent.trim()) {
+            elem.textContent = title.textContent.trim();
+          }
+        } catch {}
+      }
     }),
   );
 
   const head = doc.querySelector('head');
   const metaCharset = doc.createElement('meta');
+  const metaViewport = doc.createElement('meta');
   metaCharset.setAttribute('charset', 'UTF8');
+  metaViewport.setAttribute('name', 'viewport');
+  metaViewport.setAttribute('content', 'width=device-width, initial-scale=1');
   head.appendChild(metaCharset);
+  head.appendChild(metaViewport);
   await writeFile('build/index.html', dom.serialize());
 })();
