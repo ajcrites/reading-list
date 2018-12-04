@@ -2,6 +2,7 @@ import * as MarkdownIt from 'markdown-it';
 import * as taskLists from 'markdown-it-task-lists';
 import { JSDOM } from 'jsdom';
 import * as mkdirp from 'mkdirp-promise';
+import { join } from 'path';
 const fsPromises = require('fs').promises;
 const { readFile, writeFile } = fsPromises;
 
@@ -36,12 +37,7 @@ const { readFile, writeFile } = fsPromises;
   );
 
   const head = doc.querySelector('head');
-  const metaCharset = doc.createElement('meta');
-  const metaViewport = doc.createElement('meta');
-  metaCharset.setAttribute('charset', 'UTF8');
-  metaViewport.setAttribute('name', 'viewport');
-  metaViewport.setAttribute('content', 'width=device-width, initial-scale=1');
-  head.appendChild(metaCharset);
-  head.appendChild(metaViewport);
+  head.innerHTML = await readFile(join(__dirname, '/head.html'));
+
   await writeFile('build/index.html', dom.serialize());
 })();

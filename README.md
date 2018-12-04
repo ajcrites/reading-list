@@ -9,6 +9,7 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://capacitor.ionicframework.com/docs/getting-started/
 - [ ] [Angular - Routing & Navigation](https://angular.io/guide/router)
 - [ ] [Angular - Providers](https://angular.io/guide/providers)
+- [ ] https://reactnavigation.org/blog/2018/11/17/react-navigation-3.0.html
 
 ## Apps
 
@@ -21,6 +22,7 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [x] https://egghead.io/courses/advanced-react-component-patterns
 - [ ] https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 - [ ] https://egghead.io/lessons/rxjs-create-a-generic-subscriber-in-rxjs
+- [ ] https://egghead.io/playlists/react-hooks-and-suspense-650307f2
 
 ## Videos
 
@@ -35,6 +37,8 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://www.youtube.com/watch?v=cyaAhXHhxgk
 - [ ] https://www.youtube.com/watch?v=v6iR3Zk4oDY
 - [x] https://www.youtube.com/watch?v=SsCRQwLPwc8
+- [ ] https://egghead.io/lessons/jest-write-data-driven-tests-in-jest-with-test-each
+- [ ] https://www.youtube.com/watch?v=Z0Jl1KCWiag
 
 ## Articles
 
@@ -70,3 +74,9 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://tylermcginnis.com/react-higher-order-components/
 - [ ] https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
 - [ ] https://blog.angularindepth.com/rxjs-closed-subjects-1b6f76c1b63c
+- [ ] https://overreacted.io/why-do-we-write-super-props/
+- [ ] https://blog.angularindepth.com/my-adventures-running-angular-ivy-inside-stackblitz-yes-it-is-possible-f4984fafd7d4
+- [ ] https://zeit.co/blog/ncc
+- [ ] https://blog.gardeviance.org/2016/08/on-being-lost.html
+- [ ] https://alexjover.com/blog/use-prettier-with-tslint-and-be-happy/
+- [ ] https://angular-guru.com/blog/angular-more-unknown-features
