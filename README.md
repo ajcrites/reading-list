@@ -80,3 +80,5 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://blog.gardeviance.org/2016/08/on-being-lost.html
 - [ ] https://alexjover.com/blog/use-prettier-with-tslint-and-be-happy/
 - [ ] https://angular-guru.com/blog/angular-more-unknown-features
+
+test
