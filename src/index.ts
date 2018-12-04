@@ -40,4 +40,11 @@ const { readFile, writeFile } = fsPromises;
   head.innerHTML = await readFile(join(__dirname, '/head.html'));
 
   await writeFile('build/index.html', dom.serialize());
+  // tslint:disable-next-line:max-line-length
+  await writeFile(
+    'build/_redirects',
+    `http://${process.env.TF_VAR_app_name}.netlify.com/* http://${
+      process.env.TF_VAR_site_name
+    }/:splat 301!`,
+  );
 })();

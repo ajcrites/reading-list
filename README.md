@@ -13,7 +13,7 @@ like to try out and explore. I hope that others can benefit from the list too.
 
 ## Apps
 
-- [ ] https://www.webpagetest.org/easy
+- [x] https://www.webpagetest.org/easy
 
 ## Video Courses
 
@@ -23,6 +23,7 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 - [ ] https://egghead.io/lessons/rxjs-create-a-generic-subscriber-in-rxjs
 - [ ] https://egghead.io/playlists/react-hooks-and-suspense-650307f2
+- [ ] https://egghead.io/playlists/css-fundamentals-238ce697
 
 ## Videos
 
@@ -48,7 +49,7 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://medium.com/@amberleyjohanna/seriously-though-what-is-a-progressive-web-app-56130600a093
 - [x] https://blog.kentcdodds.com/automation-without-config-412ab5e47229
 - [ ] https://developers.google.com/web/updates/2018/05/lighthouse
-- [ ] https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage
+- [x] https://developers.google.com/web/updates/2017/04/devtools-release-notes
 - [ ] https://developers.google.com/web/fundamentals/performance/prpl-pattern/
 - [ ] https://w3c.github.io/longtasks/
 - [ ] https://developers.google.com/web/updates/2018/05/first-input-delay
@@ -61,12 +62,12 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [x] https://github.com/Microsoft/TypeScript/wiki/FAQ
 - [ ] https://blog.angularindepth.com/rxjs-understanding-the-publish-and-share-operators-16ea2f446635
 - [ ] https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e
-- [ ] https://www.artima.com/intv/handcuffs.html
+- [x] https://www.artima.com/intv/handcuffs.html
 - [x] https://medium.com/@thomasreggi/yarn-plugn-play-1c398bf3e417
 - [ ] https://lwn.net/Articles/250967/
 - [ ] https://addyosmani.com/blog/performance-budgets/
 - [ ] https://dev.to/meltedspark/customizing-angular-cli-6-buildan-alternative-to-ng-eject-1oc4
-- [ ] https://dev.to/meltedspark/angular-6-ng-test-with-jest-in-3-minutes-43l8
+- [x] https://dev.to/meltedspark/angular-6-ng-test-with-jest-in-3-minutes-43l8
 - [ ] [Can Programming Be Liberated from the von Neumann Style?](https://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf)
 - [x] https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2
 - [ ] https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6
@@ -80,3 +81,4 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://blog.gardeviance.org/2016/08/on-being-lost.html
 - [ ] https://alexjover.com/blog/use-prettier-with-tslint-and-be-happy/
 - [ ] https://angular-guru.com/blog/angular-more-unknown-features
+- [ ] https://serverless.com/blog/api-gateway-websockets-support/
