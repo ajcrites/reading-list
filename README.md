@@ -7,8 +7,9 @@ like to try out and explore. I hope that others can benefit from the list too.
 
 - [ ] https://github.com/webpack-contrib/webpack-bundle-analyzer
 - [ ] https://capacitor.ionicframework.com/docs/getting-started/
-- [ ] https://angular.io/guide/router
-- [ ] https://angular.io/guide/providers
+- [ ] [Angular - Routing & Navigation](https://angular.io/guide/router)
+- [ ] [Angular - Providers](https://angular.io/guide/providers)
+- [ ] https://reactnavigation.org/blog/2018/11/17/react-navigation-3.0.html
 
 ## Apps
 
@@ -21,6 +22,7 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [x] https://egghead.io/courses/advanced-react-component-patterns
 - [ ] https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 - [ ] https://egghead.io/lessons/rxjs-create-a-generic-subscriber-in-rxjs
+- [ ] https://egghead.io/playlists/react-hooks-and-suspense-650307f2
 
 ## Videos
 
@@ -34,7 +36,9 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://www.youtube.com/watch?v=Y4McLi9scfc
 - [ ] https://www.youtube.com/watch?v=cyaAhXHhxgk
 - [ ] https://www.youtube.com/watch?v=v6iR3Zk4oDY
-- [ ] https://www.youtube.com/watch?v=SsCRQwLPwc8
+- [x] https://www.youtube.com/watch?v=SsCRQwLPwc8
+- [ ] https://egghead.io/lessons/jest-write-data-driven-tests-in-jest-with-test-each
+- [ ] https://www.youtube.com/watch?v=Z0Jl1KCWiag
 
 ## Articles
 
@@ -63,10 +67,16 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://addyosmani.com/blog/performance-budgets/
 - [ ] https://dev.to/meltedspark/customizing-angular-cli-6-buildan-alternative-to-ng-eject-1oc4
 - [ ] https://dev.to/meltedspark/angular-6-ng-test-with-jest-in-3-minutes-43l8
-- [ ] https://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf
+- [ ] [Can Programming Be Liberated from the von Neumann Style?](https://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf)
 - [x] https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2
 - [ ] https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6
 - [ ] https://blog.logrocket.com/async-rendering-in-react-with-suspense-5d0eaac886c8
 - [ ] https://tylermcginnis.com/react-higher-order-components/
 - [ ] https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
 - [ ] https://blog.angularindepth.com/rxjs-closed-subjects-1b6f76c1b63c
+- [ ] https://overreacted.io/why-do-we-write-super-props/
+- [ ] https://blog.angularindepth.com/my-adventures-running-angular-ivy-inside-stackblitz-yes-it-is-possible-f4984fafd7d4
+- [ ] https://zeit.co/blog/ncc
+- [ ] https://blog.gardeviance.org/2016/08/on-being-lost.html
+- [ ] https://alexjover.com/blog/use-prettier-with-tslint-and-be-happy/
+- [ ] https://angular-guru.com/blog/angular-more-unknown-features
