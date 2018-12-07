@@ -3,6 +3,10 @@
 This is a list of articles, books, websites, videos, and anything else I would
 like to try out and explore. I hope that others can benefit from the list too.
 
+If you're interested in creating your own reading list, you can copy
+[this repo](https://github.com/ajcrites/reading-list) and deploy it using
+[`terraform`](https://www.terraform.io/) with the provided infrastructure.
+
 ## Software
 
 - [ ] https://github.com/webpack-contrib/webpack-bundle-analyzer
@@ -74,12 +78,12 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [x] https://dev.to/meltedspark/angular-6-ng-test-with-jest-in-3-minutes-43l8
 - [ ] [Can Programming Be Liberated from the von Neumann Style?](https://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf)
 - [x] https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2
-- [ ] https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6
+- [x] https://medium.com/@baphemot/understanding-react-suspense-1c73b4b0b1e6
 - [ ] https://blog.logrocket.com/async-rendering-in-react-with-suspense-5d0eaac886c8
 - [ ] https://tylermcginnis.com/react-higher-order-components/
 - [ ] https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
 - [ ] https://blog.angularindepth.com/rxjs-closed-subjects-1b6f76c1b63c
-- [ ] https://overreacted.io/why-do-we-write-super-props/
+- [x] https://overreacted.io/why-do-we-write-super-props/
 - [ ] https://blog.angularindepth.com/my-adventures-running-angular-ivy-inside-stackblitz-yes-it-is-possible-f4984fafd7d4
 - [ ] https://zeit.co/blog/ncc
 - [ ] https://blog.gardeviance.org/2016/08/on-being-lost.html
@@ -87,3 +91,4 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [x] https://angular-guru.com/blog/angular-more-unknown-features
 - [ ] https://serverless.com/blog/api-gateway-websockets-support/
 - [ ] https://hacks.mozilla.org/2018/12/rust-2018-is-here/
+- [x] http://www.takingnotes.co/blog/2018/11/09/react-native-accessibility/
