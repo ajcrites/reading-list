@@ -8,7 +8,8 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://github.com/webpack-contrib/webpack-bundle-analyzer
 - [ ] https://capacitor.ionicframework.com/docs/getting-started/
 - [ ] [Angular - Routing & Navigation](https://angular.io/guide/router)
-- [ ] [Angular - Providers](https://angular.io/guide/providers)
+- [x] [Angular - Providers](https://angular.io/guide/providers)
+- [ ] [Angular - Lazy Loading Feature Modules](https://angular.io/guide/lazy-loading-ngmodules)
 - [ ] https://reactnavigation.org/blog/2018/11/17/react-navigation-3.0.html
 
 ## Apps
@@ -40,6 +41,9 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [x] https://www.youtube.com/watch?v=SsCRQwLPwc8
 - [ ] https://egghead.io/lessons/jest-write-data-driven-tests-in-jest-with-test-each
 - [ ] https://www.youtube.com/watch?v=Z0Jl1KCWiag
+- [x] https://www.youtube.com/watch?v=91gxLyc9nXU
+- [x] https://www.youtube.com/watch?v=CJPTcTezvKU
+- [x] https://www.youtube.com/watch?v=_P2fGeg9I5o
 
 ## Articles
 
@@ -79,6 +83,7 @@ like to try out and explore. I hope that others can benefit from the list too.
 - [ ] https://blog.angularindepth.com/my-adventures-running-angular-ivy-inside-stackblitz-yes-it-is-possible-f4984fafd7d4
 - [ ] https://zeit.co/blog/ncc
 - [ ] https://blog.gardeviance.org/2016/08/on-being-lost.html
-- [ ] https://alexjover.com/blog/use-prettier-with-tslint-and-be-happy/
-- [ ] https://angular-guru.com/blog/angular-more-unknown-features
+- [x] https://alexjover.com/blog/use-prettier-with-tslint-and-be-happy/
+- [x] https://angular-guru.com/blog/angular-more-unknown-features
 - [ ] https://serverless.com/blog/api-gateway-websockets-support/
+- [ ] https://hacks.mozilla.org/2018/12/rust-2018-is-here/
