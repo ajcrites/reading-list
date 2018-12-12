@@ -92,3 +92,4 @@ If you're interested in creating your own reading list, you can copy
 - [ ] https://serverless.com/blog/api-gateway-websockets-support/
 - [ ] https://hacks.mozilla.org/2018/12/rust-2018-is-here/
 - [x] http://www.takingnotes.co/blog/2018/11/09/react-native-accessibility/
+- [x] https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514
