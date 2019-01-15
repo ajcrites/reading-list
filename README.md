@@ -48,6 +48,12 @@ If you're interested in creating your own reading list, you can copy
 - [x] https://www.youtube.com/watch?v=91gxLyc9nXU
 - [x] https://www.youtube.com/watch?v=CJPTcTezvKU
 - [x] https://www.youtube.com/watch?v=_P2fGeg9I5o
+- [x] https://www.youtube.com/watch?v=te3Zm4bHBVs
+- [x] https://www.youtube.com/watch?v=ahCwqrYpIuM
+- [x] https://www.youtube.com/watch?v=azcrPFhaY9k
+- [x] https://www.youtube.com/watch?v=EZpdEljk5dY
+- [x] https://www.youtube.com/watch?v=G7KOgwuKBJQ
+- [x] https://www.youtube.com/watch?v=-NzfOhSAZpA
 
 ## Articles
 
@@ -84,8 +90,8 @@ If you're interested in creating your own reading list, you can copy
 - [ ] https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
 - [ ] https://blog.angularindepth.com/rxjs-closed-subjects-1b6f76c1b63c
 - [x] https://overreacted.io/why-do-we-write-super-props/
-- [ ] https://blog.angularindepth.com/my-adventures-running-angular-ivy-inside-stackblitz-yes-it-is-possible-f4984fafd7d4
-- [ ] https://zeit.co/blog/ncc
+- [x] https://blog.angularindepth.com/my-adventures-running-angular-ivy-inside-stackblitz-yes-it-is-possible-f4984fafd7d4
+- [x] https://zeit.co/blog/ncc
 - [ ] https://blog.gardeviance.org/2016/08/on-being-lost.html
 - [x] https://alexjover.com/blog/use-prettier-with-tslint-and-be-happy/
 - [x] https://angular-guru.com/blog/angular-more-unknown-features
@@ -93,3 +99,9 @@ If you're interested in creating your own reading list, you can copy
 - [ ] https://hacks.mozilla.org/2018/12/rust-2018-is-here/
 - [x] http://www.takingnotes.co/blog/2018/11/09/react-native-accessibility/
 - [x] https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514
+- [x] https://calibreapp.com/blog/2017-11-28-debugging-react/
+- [ ] https://reactjs.org/docs/optimizing-performance.html
+- [ ] https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
+- [x] https://medium.com/@cpyle/rxjs-functions-part-1-3275c1cdde21
+- [ ] https://developers.google.com/web/updates/2015/08/using-requestidlecallback
+- [ ] https://github.com/angular/angular/blob/master/packages/compiler/design/architecture.md
