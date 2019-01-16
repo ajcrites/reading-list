@@ -3,7 +3,7 @@
 This is a list of articles, books, websites, videos, and anything else I would
 like to try out and explore. I hope that others can benefit from the list too.
 
-If you're interested in creating your own reading list, you can copy
+If you're interested in creating your own reading list, you can fork
 [this repo](https://github.com/ajcrites/reading-list) and deploy it using
 [`terraform`](https://www.terraform.io/) with the provided infrastructure.
 
@@ -41,9 +41,9 @@ If you're interested in creating your own reading list, you can copy
 - [x] https://www.youtube.com/watch?v=56mETnrByBM
 - [ ] https://www.youtube.com/watch?v=Y4McLi9scfc
 - [ ] https://www.youtube.com/watch?v=cyaAhXHhxgk
-- [ ] https://www.youtube.com/watch?v=v6iR3Zk4oDY
+- [x] https://www.youtube.com/watch?v=v6iR3Zk4oDY
 - [x] https://www.youtube.com/watch?v=SsCRQwLPwc8
-- [ ] https://egghead.io/lessons/jest-write-data-driven-tests-in-jest-with-test-each
+- [x] https://egghead.io/lessons/jest-write-data-driven-tests-in-jest-with-test-each
 - [ ] https://www.youtube.com/watch?v=Z0Jl1KCWiag
 - [x] https://www.youtube.com/watch?v=91gxLyc9nXU
 - [x] https://www.youtube.com/watch?v=CJPTcTezvKU
@@ -57,7 +57,7 @@ If you're interested in creating your own reading list, you can copy
 
 ## Articles
 
-- [ ] https://alistapart.com/article/conversational-semantics
+- [x] https://alistapart.com/article/conversational-semantics
 - [ ] https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/
 - [ ] https://blog.kentcdodds.com/when-to-not-use-render-props-5397bbeff746
 - [ ] https://medium.com/@amberleyjohanna/seriously-though-what-is-a-progressive-web-app-56130600a093
@@ -105,3 +105,4 @@ If you're interested in creating your own reading list, you can copy
 - [x] https://medium.com/@cpyle/rxjs-functions-part-1-3275c1cdde21
 - [ ] https://developers.google.com/web/updates/2015/08/using-requestidlecallback
 - [ ] https://github.com/angular/angular/blob/master/packages/compiler/design/architecture.md
+- [x] https://medium.com/@jdxcode/for-the-love-of-god-dont-use-npmignore-f93c08909d8d

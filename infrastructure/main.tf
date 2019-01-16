@@ -7,8 +7,8 @@ resource "netlify_site" netlify_site {
   custom_domain = "${var.site_name}"
   repo {
     provider = "github"
-    command = "./scripts/build.sh"
-    dir = "build"
+    command = "scripts/build.sh"
+    dir = "dist"
     repo_path = "ajcrites/reading-list"
     repo_branch = "master"
   }
