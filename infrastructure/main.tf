@@ -8,7 +8,7 @@ resource "netlify_site" netlify_site {
   repo {
     provider = "github"
     command = "./scripts/build.sh"
-    dir = "build"
+    dir = "dist"
     repo_path = "ajcrites/reading-list"
     repo_branch = "master"
   }
