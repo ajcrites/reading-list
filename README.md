@@ -9,7 +9,7 @@ If you're interested in creating your own reading list, you can fork
 
 ## Software
 
-- [ ] https://github.com/webpack-contrib/webpack-bundle-analyzer
+- [x] https://github.com/webpack-contrib/webpack-bundle-analyzer
 - [ ] https://capacitor.ionicframework.com/docs/getting-started/
 - [ ] [Angular - Routing & Navigation](https://angular.io/guide/router)
 - [x] [Angular - Providers](https://angular.io/guide/providers)
