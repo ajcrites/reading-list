@@ -13,7 +13,7 @@ If you're interested in creating your own reading list, you can fork
 - [ ] https://capacitor.ionicframework.com/docs/getting-started/
 - [ ] [Angular - Routing & Navigation](https://angular.io/guide/router)
 - [x] [Angular - Providers](https://angular.io/guide/providers)
-- [ ] [Angular - Lazy Loading Feature Modules](https://angular.io/guide/lazy-loading-ngmodules)
+- [x] [Angular - Lazy Loading Feature Modules](https://angular.io/guide/lazy-loading-ngmodules)
 - [ ] https://reactnavigation.org/blog/2018/11/17/react-navigation-3.0.html
 
 ## Apps
