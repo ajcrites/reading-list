@@ -54,12 +54,13 @@ If you're interested in creating your own reading list, you can fork
 - [x] https://www.youtube.com/watch?v=EZpdEljk5dY
 - [x] https://www.youtube.com/watch?v=G7KOgwuKBJQ
 - [x] https://www.youtube.com/watch?v=-NzfOhSAZpA
+- [ ] https://www.youtube.com/watch?v=BcVAq3YFiuc
 
 ## Articles
 
 - [x] https://alistapart.com/article/conversational-semantics
 - [ ] https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/
-- [ ] https://blog.kentcdodds.com/when-to-not-use-render-props-5397bbeff746
+- [x] https://blog.kentcdodds.com/when-to-not-use-render-props-5397bbeff746
 - [ ] https://medium.com/@amberleyjohanna/seriously-though-what-is-a-progressive-web-app-56130600a093
 - [x] https://blog.kentcdodds.com/automation-without-config-412ab5e47229
 - [ ] https://developers.google.com/web/updates/2018/05/lighthouse
@@ -106,3 +107,4 @@ If you're interested in creating your own reading list, you can fork
 - [ ] https://developers.google.com/web/updates/2015/08/using-requestidlecallback
 - [ ] https://github.com/angular/angular/blob/master/packages/compiler/design/architecture.md
 - [x] https://medium.com/@jdxcode/for-the-love-of-god-dont-use-npmignore-f93c08909d8d
+- [x] https://medium.com/@m3po22/stop-using-ngrx-effects-for-that-a6ccfe186399
