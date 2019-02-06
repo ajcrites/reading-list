@@ -19,6 +19,7 @@ If you're interested in creating your own reading list, you can fork
 ## Apps
 
 - [x] https://www.webpagetest.org/easy
+- [ ] https://stenciljs.com/
 
 ## Video Courses
 
@@ -108,3 +109,7 @@ If you're interested in creating your own reading list, you can fork
 - [ ] https://github.com/angular/angular/blob/master/packages/compiler/design/architecture.md
 - [x] https://medium.com/@jdxcode/for-the-love-of-god-dont-use-npmignore-f93c08909d8d
 - [x] https://medium.com/@m3po22/stop-using-ngrx-effects-for-that-a6ccfe186399
+- [x] https://blog.ionicframework.com/introducing-ionic-4-ionic-for-everyone/
+- [ ] https://www.javascriptjanuary.com/blog/defensive-javascript
+- [ ] https://medium.com/@mikesamuel/puzzling-towards-security-a12b9427124
+- [x] https://reactjs.org/blog/2019/02/06/react-v16.8.0.html
