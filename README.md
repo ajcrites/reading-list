@@ -27,7 +27,7 @@ If you're interested in creating your own reading list, you can fork
 - [x] https://egghead.io/courses/build-complex-layouts-with-css-grid-layout
 - [x] https://egghead.io/courses/advanced-react-component-patterns
 - [ ] https://egghead.io/courses/building-react-applications-with-idiomatic-redux
-- [ ] https://egghead.io/lessons/rxjs-create-a-generic-subscriber-in-rxjs
+- [x] https://egghead.io/lessons/rxjs-create-a-generic-subscriber-in-rxjs
 - [ ] https://egghead.io/playlists/react-hooks-and-suspense-650307f2
 - [ ] https://egghead.io/playlists/css-fundamentals-238ce697
 
@@ -56,6 +56,7 @@ If you're interested in creating your own reading list, you can fork
 - [x] https://www.youtube.com/watch?v=G7KOgwuKBJQ
 - [x] https://www.youtube.com/watch?v=-NzfOhSAZpA
 - [ ] https://www.youtube.com/watch?v=BcVAq3YFiuc
+- [x] https://www.youtube.com/watch?v=JmnsEvoy-gY
 
 ## Articles
 
